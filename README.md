@@ -97,7 +97,17 @@ python 3d_converter.py
 
 <img width="1072" alt="Screenshot 2025-03-04 at 13 43 09" src="https://github.com/user-attachments/assets/7193a8c2-03e4-425d-b95a-a33880866aa8" />
 
+### Helix
 
+<img width="1072" alt="Screenshot 2025-03-04 at 13 57 07" src="https://github.com/user-attachments/assets/7e435b14-bdef-43c1-91e4-7fb4d58af13b" />
+
+### Bonsai Tree
+
+<img width="1072" alt="Screenshot 2025-03-04 at 13 57 34" src="https://github.com/user-attachments/assets/30dd30f3-8234-4230-8f47-d71563589118" />
+
+### Lighthouse
+
+<img width="1072" alt="Screenshot 2025-03-04 at 13 54 57" src="https://github.com/user-attachments/assets/272b4624-142e-47f6-96f1-0d5f32f108c7" />
 
 ---
 
