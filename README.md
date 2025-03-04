@@ -92,6 +92,8 @@ python 3d_converter.py
 ---
 ### Images
 
+Here are few of the many example images, have some fun looking through them and seeing what they create
+
 ### Temple
 <img width="1429" alt="Screenshot 2025-03-04 at 13 42 40" src="https://github.com/user-attachments/assets/7a8dea4a-5e04-41c7-8960-b4c18e532ecd" />
 
@@ -108,6 +110,19 @@ python 3d_converter.py
 ### Lighthouse
 
 <img width="1072" alt="Screenshot 2025-03-04 at 13 54 57" src="https://github.com/user-attachments/assets/272b4624-142e-47f6-96f1-0d5f32f108c7" />
+
+### Sun Painting
+
+<img width="1072" alt="Screenshot 2025-03-04 at 19 26 49" src="https://github.com/user-attachments/assets/857c84f0-4f4f-42ff-8d86-32210dba469b" />
+
+### Futuristic City
+
+<img width="1072" alt="Screenshot 2025-03-04 at 19 27 13" src="https://github.com/user-attachments/assets/b2eb52fb-1ed1-41f4-b840-0221cd1e4f9c" />
+
+### Japanese Zen Garden
+
+<img width="1072" alt="Screenshot 2025-03-04 at 19 28 18" src="https://github.com/user-attachments/assets/2f741140-9750-41ff-8b8b-ebf0ad7ecb8d" />
+
 
 ---
 
