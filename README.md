@@ -1,4 +1,4 @@
-# 3D Converter - A Visual Hull-Based 3D Reconstruction Tool
+# 2D to 3D Converter - A Visual Hull-Based 3D Reconstruction Tool
 
 ## Overview
 
@@ -53,7 +53,7 @@ This tool is useful for approximating 3D objects from 2D silhouettes and can be 
 
 ### **1. Clone the Repository**
 ```sh
-git clone https://github.com/Fatcatcreate/2dimages_to_3d-converter.git
+git clone https://github.com/Fatcatcreate/2D-to-3D-Converter.git
 cd 3d-converter
 ```
 
@@ -74,6 +74,12 @@ python 3d_converter.py
 
 - Output files will be saved to `reconstruction_output/`
 - Open `mesh.obj` in a 3D viewer or Blender.
+
+---
+### Images
+
+### Temple
+
 
 ---
 
