@@ -277,6 +277,7 @@ def main(image_paths, output_dir, voxel_resolution=100):
     print(f"Visualisations saved as: {os.path.join(output_dir, 'view_*.png')}")
 
 if __name__ == "__main__":
+    # Amend to the Image Paths needed
     image_paths = {
         'front': 'test_images/bonsai_tree/front.png',
         'back': 'test_images/bonsai_tree/back.png',
