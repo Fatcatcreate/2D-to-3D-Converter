@@ -79,6 +79,10 @@ python 3d_converter.py
 ### Images
 
 ### Temple
+<img width="1429" alt="Screenshot 2025-03-04 at 13 42 40" src="https://github.com/user-attachments/assets/7a8dea4a-5e04-41c7-8960-b4c18e532ecd" />
+
+<img width="1072" alt="Screenshot 2025-03-04 at 13 43 09" src="https://github.com/user-attachments/assets/7193a8c2-03e4-425d-b95a-a33880866aa8" />
+
 
 
 ---
