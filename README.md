@@ -53,7 +53,7 @@ This tool is useful for approximating 3D objects from 2D silhouettes and can be 
 
 ### **1. Clone the Repository**
 ```sh
-git clone https://github.com/your-repo/3d-converter.git
+git clone https://github.com/Fatcatcreate/2dimages_to_3d-converter.git
 cd 3d-converter
 ```
 
