@@ -279,12 +279,12 @@ def main(image_paths, output_dir, voxel_resolution=100):
 if __name__ == "__main__":
     # Amend to the image you want to load
     image_paths = {
-        'front': 'test_images/crystal_citadel/front.png',
-        'back': 'test_images/crystal_citadel/back.png',
-        'top': 'test_images/crystal_citadel/top.png',
-        'bottom': 'test_images/crystal_citadel/bottom.png',
-        'left': 'test_images/crystal_citadel/left.png',
-        'right': 'test_images/crystal_citadel/right.png'
+        'front': 'test_images/typewriter/front.png',
+        'back': 'test_images/typewriter/back.png',
+        'top': 'test_images/typewriter/top.png',
+        'bottom': 'test_images/typewriter/bottom.png',
+        'left': 'test_images/typewriter/left.png',
+        'right': 'test_images/typewriter/right.png'
     }
     output_dir = "reconstruction_output"
     
