@@ -33,6 +33,22 @@ This tool is useful for approximating 3D objects from 2D silhouettes and can be 
 
 ---
 
+## How to Upload Your Drawings
+
+### **1. Capture a High-Contrast Black & White Image**
+- Use a **camera or scanner** to capture your drawing.
+- Ensure the image is **black and white** with high contrast (no greyscale or shadows).
+
+### **2. Resize for Best Results**
+- Resize the image to **256x256 pixels** to match the input requirements.
+- Use an image editor or a script (`OpenCV` or `Pillow` in Python) to do this.
+
+### **3. Save in the Correct Format**
+- Save the processed image as a `.png` file.
+- Place it in the `test_images/` directory with the appropriate name (`front.png`, `back.png`, etc.).
+
+---
+
 ## Installation & Setup
 
 ### **1. Clone the Repository**
@@ -48,7 +64,7 @@ pip install numpy open3d opencv-python-headless scikit-image
 ```
 
 ### **3. Prepare Input Images**
-- Ensure six silhouette images exist under `test_images/lighthouse/` with names:
+- Ensure six silhouette images exist under `test_images/OBJECT_FILE/` with names:
   - `front.png`, `back.png`, `left.png`, `right.png`, `top.png`, `bottom.png`
 
 ### **4. Run the Script**
