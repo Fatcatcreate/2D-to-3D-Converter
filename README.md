@@ -1,12 +1,26 @@
 # 2D to 3D Converter - A Visual Hull-Based 3D Reconstruction Tool
 
+___
+
+## Table of Contents 
+
+- [Overview](#Overview)
+- [How it works](#How-It-Works)
+- [Upload Your own Images](#How-to-Upload-Your-Drawings)
+- [Installation & Setup](#Installation-&-Setup)
+- [Images](#Images)
+- [Future Improvements](#Future-Improvements)  
+
+
+---
+
 ## Overview
 
 This project is a **3D reconstruction tool** that generates a 3D mesh from six orthographic images using the **visual hull technique**. It takes six images representing different views (front, back, left, right, top, and bottom) and constructs a **voxel grid**, which is then converted into a 3D mesh using the **Marching Cubes algorithm**.
 
 This tool is useful for approximating 3D objects from 2D silhouettes and can be applied to **computer vision, AI-generated assets, and digital reconstruction** projects.
 
----
+___
 
 ## How It Works
 
