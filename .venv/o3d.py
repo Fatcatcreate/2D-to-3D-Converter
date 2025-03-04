@@ -277,13 +277,14 @@ def main(image_paths, output_dir, voxel_resolution=100):
     print(f"Visualisations saved as: {os.path.join(output_dir, 'view_*.png')}")
 
 if __name__ == "__main__":
+    # Amend to the image you want to load
     image_paths = {
-        'front': 'test_images/bonsai_tree/front.png',
-        'back': 'test_images/bonsai_tree/back.png',
-        'top': 'test_images/bonsai_tree/top.png',
-        'bottom': 'test_images/bonsai_tree/bottom.png',
-        'left': 'test_images/bonsai_tree/left.png',
-        'right': 'test_images/bonsai_tree/right.png'
+        'front': 'test_images/volcano/front.png',
+        'back': 'test_images/volcano/back.png',
+        'top': 'test_images/volcano/top.png',
+        'bottom': 'test_images/volcano/bottom.png',
+        'left': 'test_images/volcano/left.png',
+        'right': 'test_images/volcano/right.png'
     }
     output_dir = "reconstruction_output"
     
