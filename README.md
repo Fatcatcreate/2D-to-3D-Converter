@@ -54,12 +54,12 @@ ___
 - Ensure the image is **black and white** with high contrast (no greyscale or shadows).
 
 ### **2. Resize for Best Results**
-- Resize the image to **256x256 pixels** to match the input requirements.
-- Use an image editor or a script (`OpenCV` or `Pillow` in Python) to do this.
+- Resize the image to **256x256 or 512x512 pixels** to match the input requirements.
+- Use an image editor or online tool or a script (`OpenCV` or `Pillow` in Python) to do this.
 
 ### **3. Save in the Correct Format**
 - Save the processed image as a `.png` file.
-- Place it in the `test_images/` directory with the appropriate name (`front.png`, `back.png`, etc.).
+- Place it in the `test_images/` directory (not necessary but easier to use) with the appropriate name (`front.png`, `back.png`, etc.).
 
 ---
 
