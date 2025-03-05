@@ -123,6 +123,10 @@ Here are few of the many example images, have some fun looking through them and 
 
 <img width="1072" alt="Screenshot 2025-03-04 at 19 28 18" src="https://github.com/user-attachments/assets/2f741140-9750-41ff-8b8b-ebf0ad7ecb8d" />
 
+### Fire Goblet 
+
+![Screenshot 2025-03-05 at 08 40 52](https://github.com/user-attachments/assets/9f908346-8c84-4661-b36d-d74b1d7275c8)
+
 
 ---
 
